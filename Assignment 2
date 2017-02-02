@@ -1,4 +1,5 @@
 
+Musical Intrument Example:
 
 I have been lately interested in conductive ink /Electric paint. I find these 
 kind of projects to be very interactive and fun to play with. So I would love to experiment with this material going forward.
@@ -13,3 +14,23 @@ at the same time.
 
 http://cargocollective.com/carolacintron/instrument-o-02-2013-Conductive-ink-wood-and-electronic-components-8
 This could be an other example more of a painting with conductive ink. When you move an object over it you can play music.
+
+Sensors:
+
+Force sensitive resistor - Used to detect physical pressure such as pinching, squeezing, pushing, brushing
+Photocells - Used to detect light/dark, breakbeams, simple object detection
+Temperature - Used to determine environmental temperature
+Tilt sensors - Used to detect motion/vibration and orientation.
+PIR sensors - Used to detect motion activity such as animals or people
+Thermocouple - Used for temperature measurements, usually those above 150°C
+IR receivers - Used to detect IR signals from remote controls
+
+Although this could be a general note on these sensors. For me personally Force sensitive resistor sounds new to me.
+I haven't heard about it before. 
+ 
+Although I have dealt with these sensors in class and other projects,and Interesting thing to be noted was.
+If you put too many photocells in closer proximity to eachother. Then the feedback from each one would be interfering with each 
+other. Guess in that situation as we were taught in class as well based on the online resources we have , it states that having 
+a delay between those sensors would be better to track each one separately.
+
+
