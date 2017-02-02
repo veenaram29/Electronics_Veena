@@ -28,7 +28,7 @@ IR receivers - Used to detect IR signals from remote controls
 Although this could be a general note on these sensors. For me personally Force sensitive resistor sounds new to me.
 I haven't heard about it before. 
  
-Although I have dealt with these sensors in class and other projects,and Interesting thing to be noted was.
+Although I have dealt with these sensors in class and other projects,the interesting thing to be noted was.
 If you put too many photocells in closer proximity to eachother. Then the feedback from each one would be interfering with each 
 other. Guess in that situation as we were taught in class as well based on the online resources we have , it states that having 
 a delay between those sensors would be better to track each one separately.
