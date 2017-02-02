@@ -13,7 +13,7 @@ pinMode(button1, INPUT); //button1 is an input
 pinMode(button2, INPUT); //button2 is an input
 }
 
-void loop(
+void loop()
 {
 buttonstatus1 = digitalRead(button1); //get status from button1 (HIGH or LOW)
 buttonstatus2 = digitalRead(button2); //get status from button2 (HIGH or LOW)
