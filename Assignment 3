@@ -22,7 +22,13 @@ The daya is tuned to the ground note of the raga called Sa (tonic in Western mus
 The baya construction and tuning is about a fifth to an octave below that of the daya drum. 
 The musician uses his hand's heel pressure to change the pitch and tone color of each drum during a performance.
 
-Draw a sketch of your instrument - https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Draw a sketch of your instrument - Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 Describe the overall concept - I want to use pressure or touch sensors which works the best to 
