@@ -23,12 +23,7 @@ The baya construction and tuning is about a fifth to an octave below that of the
 The musician uses his hand's heel pressure to change the pitch and tone color of each drum during a performance.
 
 Draw a sketch of your instrument - Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![sketchofmyinstrument](https://cloud.githubusercontent.com/assets/13222494/22797891/dc1a7ff8-eeb4-11e6-8486-15b464e84bdf.JPG)
 
 
 Describe the overall concept - I want to use pressure or touch sensors which works the best to 
