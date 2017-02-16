@@ -8,7 +8,7 @@ Step 2 - Used Makey Makey drum player app to test  - Bongos
 [Drum player](http://makeymakey.com/bongos/)
 
 Step 3 - Tried Arduino to test capacitive Sensor : Piano
-#include <CapacitiveSensor.h>
+>>> #include <CapacitiveSensor.h>
 #include "pitches.h"
 
 #define COMMON_PIN      2    // The common 'send' pin for all keys
@@ -52,7 +52,7 @@ void loop() {
 Step 4 - Tried FSR
 
 code:
-int fsrAnalogPin = A0; // FSR is connected to analog 0
+>>>>int fsrAnalogPin = A0; // FSR is connected to analog 0
 int LEDpin = 8;      // connect Red LED to pin 8 (PWM pin)
 int fsrReading;      // the analog reading from the FSR resistor divider
 int LEDbrightness;
