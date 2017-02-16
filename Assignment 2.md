@@ -41,12 +41,12 @@ But I don't want to constrain myself with this but at the same time keep myslef 
 I also want to build more like a musical reminder system if possible in this class.
 Which would be a convincing piece for my thesis. I am hoping to benefit the most of this class and enhance my skills over arduino.
 
-https://www.crowdsupply.com/bare-conductive/bare-conductive
+[bare conductive](https://www.crowdsupply.com/bare-conductive/bare-conductive)
 This example that I shared is more of a custom made interactive drum surface to play with.
 I was also thinking of making a 4/4 dance floor which could be aen interactive surface for people to move over and play music 
 at the same time.
 
-http://cargocollective.com/carolacintron/instrument-o-02-2013-Conductive-ink-wood-and-electronic-components-8
+[Conductive ink Instrument](http://cargocollective.com/carolacintron/instrument-o-02-2013-Conductive-ink-wood-and-electronic-components-8)
 This could be an other example more of a painting with conductive ink. When you move an object over it you can play music.
 
 Sensors:
