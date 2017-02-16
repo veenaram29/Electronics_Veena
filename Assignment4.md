@@ -8,10 +8,10 @@ Step 2 - Used Makey Makey drum player app to test  - Bongos
 [Drum player](http://makeymakey.com/bongos/)
 
 Step 3 - Tried Arduino to test capacitive Sensor : Piano
-### include <CapacitiveSensor.h>
-#include "pitches.h"
+#### include <CapacitiveSensor.h>
+#### include "pitches.h"
 
-#define COMMON_PIN      2    // The common 'send' pin for all keys
+#### define COMMON_PIN      2    // The common 'send' pin for all keys
 #define BUZZER_PIN      A4   // The output pin for the piezo buzzer
 #define NUM_OF_SAMPLES  10   // Higher number whens more delay but more consistent readings
 #define CAP_THRESHOLD   500  // Capactive reading that triggers a note (adjust to fit your needs)
