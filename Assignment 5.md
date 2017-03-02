@@ -13,6 +13,19 @@ Installation of makey makey was very easy and clear to learn from their website.
 So I tried to learn makey makey through playing with their prototypes first and then 
 started recreating my own version.
 
+Tabla beginners sample notes - [Samplelessonforbeginners](https://www.youtube.com/watch?v=KfCYNFgZnVk)
+##Tabla notes - 
+#Teen Tabla
+GeGe TeT GeGe NaNa
+KeKe TeT GeGe NaNa
+
+#Palta 1
+GeGe TeT GeGe TeT
+GeGe TeT GeGe NaNa
+Keke TeT KeKe TeT
+GeGe TeT GeGe NaNa
+
+
 ###Version 2 
 
 My second version of the musical instrument is by using capacitive sensors in arduino & minim example in processing.
