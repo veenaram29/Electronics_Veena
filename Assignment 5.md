@@ -16,8 +16,7 @@ started recreating my own version.
 ###Version 2 
 
 My second version of the musical instrument is by using capacitive sensors in arduino & minim example in processing.
-In this experiment, I had hard times coding and learning with processing.
-I have used three capacitive sensors to create a minimum viable product for this project.
+In this experiment, I have used three capacitive sensors to create a minimum viable product for this project.
 Right now the code is working and I am able to play three tabla notes. 
 
 Arduino - Used the Capacitive sensor example code to make the sensors work.
