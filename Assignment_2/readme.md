@@ -51,13 +51,13 @@ This could be an other example more of a painting with conductive ink. When you 
 
 ####Sensors:
 
-Force sensitive resistor - Used to detect physical pressure such as pinching, squeezing, pushing, brushing
-Photocells - Used to detect light/dark, breakbeams, simple object detection
-Temperature - Used to determine environmental temperature
-Tilt sensors - Used to detect motion/vibration and orientation.
-PIR sensors - Used to detect motion activity such as animals or people
-Thermocouple - Used for temperature measurements, usually those above 150°C
-IR receivers - Used to detect IR signals from remote controls
+*Force sensitive resistor - Used to detect physical pressure such as pinching, squeezing, pushing, brushing
+*Photocells - Used to detect light/dark, breakbeams, simple object detection
+*Temperature - Used to determine environmental temperature
+*Tilt sensors - Used to detect motion/vibration and orientation.
+*PIR sensors - Used to detect motion activity such as animals or people
+*Thermocouple - Used for temperature measurements, usually those above 150°C
+*IR receivers - Used to detect IR signals from remote controls
 
 Although this could be a general note on these sensors. For me personally Force sensitive resistor sounds new to me.
 I haven't heard about it before. 
