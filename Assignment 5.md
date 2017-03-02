@@ -1,5 +1,5 @@
 ###Design a musical instrument exercise.
-- I wanted to design a indian tabla instrument.
+- I wanted to design a Indian tabla instrument.
 
 ###Version 1 
 
