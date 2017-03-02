@@ -14,12 +14,12 @@ So I tried to learn makey makey through playing with their prototypes first and 
 started recreating my own version.
 
 Tabla beginners sample notes - [Samplelessonforbeginners](https://www.youtube.com/watch?v=KfCYNFgZnVk)
-##Tabla notes - 
-#Teen Tabla
+###Tabla notes - 
+###Teen Tabla
 GeGe TeT GeGe NaNa
 KeKe TeT GeGe NaNa
 
-#Palta 1
+####Palta 1
 GeGe TeT GeGe TeT
 GeGe TeT GeGe NaNa
 Keke TeT KeKe TeT
