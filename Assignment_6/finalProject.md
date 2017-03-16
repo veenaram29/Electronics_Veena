@@ -13,9 +13,10 @@ Things required:
 - Neopixels LED matrix
 - Movement senor belt
 - Cutter, tape, etc
+- Might need more stuff!
    
 User testing: 
--Do a minimum viable product and test it with users.
+- Do a minimum viable product and test it with users.
  Based on the test module deploy with users to create interactivity and engage
  people in a heathy habit through the help of technology.
    
