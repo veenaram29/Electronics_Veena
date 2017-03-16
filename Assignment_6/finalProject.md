@@ -5,7 +5,7 @@ we've done in class. Upload this proposal to your Github repository in a new fol
 Project Proposal:
 - I want to build an interactive breathing machine which detects the movement of your 
  diaphragm or stomach through movement sensor belt and send visual cues along the path through 
- the connected LED's. I also want to try an other version of this through creating 
+ the connected LEDs. I also want to try an other version of this through creating 
  visuals on the screen to detect using the movement belt sensor.
    
 Things required:
