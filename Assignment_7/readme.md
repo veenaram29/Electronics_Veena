@@ -21,3 +21,6 @@ By this way I believe we can encourage users to involve in a mindful breathing e
 
 - Example code to fetch real time sensor data with processing
 https://kavasmlikon.wordpress.com/2011/11/23/processing-how-to-create-real-time-info-graphics-with-sensor-data-from-pachube/
+
+- Want to create a similar visual form like this in processing
+https://www.openprocessing.org/sketch/408882
