@@ -19,3 +19,5 @@ form through connected LEDS. First user would send his breathing signal to the s
 
 By this way I believe we can encourage users to involve in a mindful breathing exercise through visual cues of their breathing pattern.
 
+- Example code to fetch real time sensor data with processing
+https://kavasmlikon.wordpress.com/2011/11/23/processing-how-to-create-real-time-info-graphics-with-sensor-data-from-pachube/
