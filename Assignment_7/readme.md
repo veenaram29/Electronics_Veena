@@ -11,7 +11,7 @@ Create a very clear project description identifying the Minimal Viable Project a
 Include flow charts, block diagrams, and pseudo-code
 
 - Minimal Viable Project:
-I am trying to make a respiratory belt sensor which will be connected to a human chest or stomach based on their breating style to detect the breathing signals and convert into waveforms.This could be detected in an application software called Lab chart. But there are application software's available in market make use of. After making this work, I would like to connect the Piezzo buzzer to the arduino board in converting those breathing signal into interactive visual from with the help of processsing. 
+I am trying to make a respiratory belt sensor which will be connected to a human chest or stomach based on their breating style to detect the breathing signals and convert into waveforms.This could be detected in an application software called Lab chart. But there are application software's available in market make use of. After making this work, I would like to connect the Piezzo buzzer to the arduino board in converting those breathing signal into interactive visual from with the help of processsing. I am hoping that visual form on the screen will start from left to right like an organic cloud.
 
 - Second Version: 
 In the second version I want to two users to participate to breath and create organic breathing visual on screen 
