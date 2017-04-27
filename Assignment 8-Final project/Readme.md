@@ -16,7 +16,7 @@ transforming into an instant zombie. Then you can question me why are you design
 But I see the advancements in technology has some adverse effects based on how much we use them. 
 That's the reason I wanted to test the instant visual feedback system as a way to motivate users behavior.
 
-My primary goal of the project was to build an interactive respiratory machine.
+    My primary goal of the project was to build an interactive respiratory machine.
 By which, I want my user to have an immediate visual feedback of their inhaling and 
 exhaling pattern. We have witnessed apps or applications which will measure, track 
 and detect our pulse rate, the number of steps we walked, etc. Although this way of 
