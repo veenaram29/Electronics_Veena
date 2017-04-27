@@ -40,6 +40,8 @@ produce organic visual waveform in the processing sketch to create a pattern aro
 ### - Accurate schematic
 <img width="523" alt="schematic_respiratory belt" src="https://cloud.githubusercontent.com/assets/13222494/25495017/8c8b969e-2b30-11e7-9b29-d1207aa59b9d.png">
 
+![circuit connection image](https://cloud.githubusercontent.com/assets/13222494/25495151/0e2eb3a2-2b31-11e7-8f98-2356a76119cc.png)
+
 
 
 
