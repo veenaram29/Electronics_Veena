@@ -1,11 +1,11 @@
-Final Project brief:
+### - Final Project brief:
 
-- This project is an extension of my thesis to test how people would respond 
+This project is an extension of my thesis to test how people would respond 
 to any instant visual feedback combined with simple interactions to make their mundane 
 action of breathing into an interesting one. It is more of an experimental test to see 
 people feel motivated in response to an instant visual feedback system. 
 
-- Why does it have to be immediate visual feedback?
+### - Why does it have to be immediate visual feedback?
 During my thesis research, I observed a user behavior. 
 When we all book for a Uber or Lyft, how many minutes do you wait? We need a taxi in less 
 than five to six minutes. Online shopping, we want our online transactions to be as quick as possible. 
@@ -24,7 +24,7 @@ showing effect oriented results is useful and motivating for users to resume the
 behavior, sooner or later it becomes void. So to make the exercise of breathing more 
 fun and exciting i’m investigating instant visual feedback.  
 
-- Describe how, from a technical point of view, your choice of hardware and software achieves that goal 
+### - Describe how, from a technical point of view, your choice of hardware and software achieves that goal 
 In the technical aspect of my project, I required a simple sensor which will detect the movement 
 of the diaphragm in recording the pattern of respiration (inhalation & exhalation) and convert into 
 numerical data. The hardware in my project is a piezo electronic buzzer which can be used both to play 
@@ -37,7 +37,7 @@ from 0 to 5 volts to a numerical range from 0 to 1023 in a process referred to a
 conversion, or ADC. And the conversion of analog to digital, is used to map the digital data to 
 produce organic visual waveform in the processing sketch to create a pattern around respiration.
 
-- Accurate schematic
+### - Accurate schematic
 
 
 		
