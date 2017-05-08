@@ -65,6 +65,8 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 
 ![velcro strap](https://cloud.githubusercontent.com/assets/13222494/25791147/3b4c1380-3373-11e7-8f0e-0ac246a903d5.jpg)
 
+![pc metal epoxy](https://cloud.githubusercontent.com/assets/13222494/25791467/67cd8f04-3375-11e7-96e4-7394085a94b2.jpg)
+
 
 
 
