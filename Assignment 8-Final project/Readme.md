@@ -56,6 +56,9 @@ Soldering - lead wire, soldering iron , safety glasses
 Buzzer -
 ![copperwire_cut in shape](https://cloud.githubusercontent.com/assets/13222494/25790706/d2ed0676-336f-11e7-877f-4a091a7e0f10.JPG)
 
+![solderingcopperwiretopiezo](https://cloud.githubusercontent.com/assets/13222494/25790769/48be50da-3370-11e7-864a-4f6875540613.JPG)
+
+
 
 
 
