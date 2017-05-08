@@ -54,6 +54,10 @@ Required Items: (Arduino Uno -1)
 Soldering - lead wire, soldering iron , safety glasses
 ### - Construction
 Buzzer -
+![copperwire_cut in shape](https://cloud.githubusercontent.com/assets/13222494/25790706/d2ed0676-336f-11e7-877f-4a091a7e0f10.JPG)
+
+
+
 
 
 A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
