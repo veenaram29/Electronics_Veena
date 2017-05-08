@@ -63,6 +63,9 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 
 ![frontposition_aftersoldering](https://cloud.githubusercontent.com/assets/13222494/25790798/911143c4-3370-11e7-8c6a-c366932ca6b7.JPG)
 
+![velcro strap](https://cloud.githubusercontent.com/assets/13222494/25791147/3b4c1380-3373-11e7-8f0e-0ac246a903d5.jpg)
+
+
 
 
 
