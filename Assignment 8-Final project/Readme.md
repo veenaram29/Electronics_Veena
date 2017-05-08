@@ -67,6 +67,9 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 
 ![pc metal epoxy](https://cloud.githubusercontent.com/assets/13222494/25791467/67cd8f04-3375-11e7-96e4-7394085a94b2.jpg)
 
+![attached to the stomach](https://cloud.githubusercontent.com/assets/13222494/25791534/f8dc7d84-3375-11e7-8b94-60b843811d8d.JPG)
+
+
 
 
 
