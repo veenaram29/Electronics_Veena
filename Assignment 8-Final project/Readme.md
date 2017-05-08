@@ -74,6 +74,8 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 
 
 
+
+
 A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
 A short video (cellphone is fine) of the operational project
 Program(s) must be well commented
