@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 
 ![attached to the stomach](https://cloud.githubusercontent.com/assets/13222494/25791534/f8dc7d84-3375-11e7-8b94-60b843811d8d.JPG)
 
+![analogreadingchanges_based on sensor](https://cloud.githubusercontent.com/assets/13222494/25791631/983fea5a-3376-11e7-8c6a-a42ae78be445.JPG)
+
+
+
 
 
 
