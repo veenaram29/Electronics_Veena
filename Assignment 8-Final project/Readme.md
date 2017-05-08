@@ -42,6 +42,27 @@ produce organic visual waveform in the processing sketch to create a pattern aro
 
 ![circuit connection image](https://cloud.githubusercontent.com/assets/13222494/25495151/0e2eb3a2-2b31-11e7-8f98-2356a76119cc.png)
 
+### - Parts list (major or unique parts, not LEDs, wire, etc.)
+Required Items: (Arduino Uno -1)
+1. Piezo electric buzzer -2.5 cm in diameter
+2. Velcro strap - 60 cm long, 2.5 cm wide
+3. Latex strip - 25 to 30 cm long, 2.5 cm wide
+4. Copper Wire - 1 to 2 mm thick
+5. Fast Curing Epoxy compound 
+6. Tools to cut wire - cutter, plyers, hammer etc.
+7. Extra - scissors, stapler, extra conductive wires & crocodile clips 
+Soldering - lead wire, soldering iron , safety glasses
+### - Construction
+Buzzer -
+
+
+A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
+A short video (cellphone is fine) of the operational project
+Program(s) must be well commented
+Each variable must have a meaningful name
+Each section (function, code block, loop, whatever) must be explained
+All unused variables and code must be removed (debugging code commented out may remain)
+
 
 
 
