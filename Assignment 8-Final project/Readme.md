@@ -54,6 +54,8 @@ Required Items: (Arduino Uno -1)
 6. Tools to cut wire - cutter, plyers, hammer etc.
 7. Extra - scissors, stapler, extra conductive wires & crocodile clips 
 Soldering - lead wire, soldering iron , safety glasses
+![thingsrequired](https://cloud.githubusercontent.com/assets/13222494/25810900/5b0fca10-33c6-11e7-9bf8-6c767f51aedb.JPG)
+
 ### - Construction
 Look into the youtube video for clear construction of the piezo electric respiratory belt.
 https://www.youtube.com/watch?v=brTVT--qcwI
@@ -64,6 +66,12 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 ![solderingcopperwiretopiezo](https://cloud.githubusercontent.com/assets/13222494/25790769/48be50da-3370-11e7-864a-4f6875540613.JPG)
 
 ![frontposition_aftersoldering](https://cloud.githubusercontent.com/assets/13222494/25790798/911143c4-3370-11e7-8c6a-c366932ca6b7.JPG)
+
+![epoxyonthebackofthesensor](https://cloud.githubusercontent.com/assets/13222494/25810980/9d8698b0-33c6-11e7-8b0c-39a4ce10e933.JPG)
+
+![velcrotolatex belt_stapled](https://cloud.githubusercontent.com/assets/13222494/25810807/19c74088-33c6-11e7-80f9-00bce08c3db0.JPG)
+
+![whole circuit connection](https://cloud.githubusercontent.com/assets/13222494/25811067/d8bc1fc2-33c6-11e7-9650-d511cc4a8c9f.JPG)
 
 ![attached to the stomach](https://cloud.githubusercontent.com/assets/13222494/25791534/f8dc7d84-3375-11e7-8b94-60b843811d8d.JPG)
 
