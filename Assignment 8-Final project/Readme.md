@@ -53,7 +53,10 @@ Required Items: (Arduino Uno -1)
 7. Extra - scissors, stapler, extra conductive wires & crocodile clips 
 Soldering - lead wire, soldering iron , safety glasses
 ### - Construction
-Buzzer -
+Look into the youtube video for clear construction.
+https://www.youtube.com/watch?v=brTVT--qcwI
+
+### - Pictures from the project
 ![copperwire_cut in shape](https://cloud.githubusercontent.com/assets/13222494/25790706/d2ed0676-336f-11e7-877f-4a091a7e0f10.JPG)
 
 ![solderingcopperwiretopiezo](https://cloud.githubusercontent.com/assets/13222494/25790769/48be50da-3370-11e7-864a-4f6875540613.JPG)
