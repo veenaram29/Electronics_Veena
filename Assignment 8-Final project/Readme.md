@@ -46,9 +46,11 @@ produce organic visual waveform in the processing sketch to create a pattern aro
 Required Items: (Arduino Uno -1)
 1. Piezo electric buzzer -2.5 cm in diameter
 2. Velcro strap - 60 cm long, 2.5 cm wide
+![velcro strap](https://cloud.githubusercontent.com/assets/13222494/25791147/3b4c1380-3373-11e7-8f0e-0ac246a903d5.jpg)
 3. Latex strip - 25 to 30 cm long, 2.5 cm wide
 4. Copper Wire - 1 to 2 mm thick
 5. Fast Curing Epoxy compound 
+![pc metal epoxy](https://cloud.githubusercontent.com/assets/13222494/25791467/67cd8f04-3375-11e7-96e4-7394085a94b2.jpg)
 6. Tools to cut wire - cutter, plyers, hammer etc.
 7. Extra - scissors, stapler, extra conductive wires & crocodile clips 
 Soldering - lead wire, soldering iron , safety glasses
@@ -62,10 +64,6 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 ![solderingcopperwiretopiezo](https://cloud.githubusercontent.com/assets/13222494/25790769/48be50da-3370-11e7-864a-4f6875540613.JPG)
 
 ![frontposition_aftersoldering](https://cloud.githubusercontent.com/assets/13222494/25790798/911143c4-3370-11e7-8c6a-c366932ca6b7.JPG)
-
-![velcro strap](https://cloud.githubusercontent.com/assets/13222494/25791147/3b4c1380-3373-11e7-8f0e-0ac246a903d5.jpg)
-
-![pc metal epoxy](https://cloud.githubusercontent.com/assets/13222494/25791467/67cd8f04-3375-11e7-96e4-7394085a94b2.jpg)
 
 ![attached to the stomach](https://cloud.githubusercontent.com/assets/13222494/25791534/f8dc7d84-3375-11e7-8b94-60b843811d8d.JPG)
 
