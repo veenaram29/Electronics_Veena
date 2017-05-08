@@ -31,8 +31,6 @@ void setup() {
   nRadius=1.300; //inner radius of the circle
   outRadius=300;//outer radius size of the circle
   totaldrawsketchs=100; //number of times it draws the sketch
-  //inBetween=1000; not required
- // circleNumber=1;//not required 
   background(#FFFFFF); //background color white
   models=500; //number of animation movements it makes
   radii = new float[models][degs]; //create new animations (movement in the visual) with 360 degree movement
