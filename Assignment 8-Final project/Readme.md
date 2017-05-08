@@ -58,7 +58,7 @@ Soldering - lead wire, soldering iron , safety glasses
 Look into the youtube video for clear construction of the piezo electric respiratory belt.
 https://www.youtube.com/watch?v=brTVT--qcwI
 
-### - Pictures from the project
+### - Pictures from overall project
 ![copperwire_cut in shape](https://cloud.githubusercontent.com/assets/13222494/25790706/d2ed0676-336f-11e7-877f-4a091a7e0f10.JPG)
 
 ![solderingcopperwiretopiezo](https://cloud.githubusercontent.com/assets/13222494/25790769/48be50da-3370-11e7-864a-4f6875540613.JPG)
@@ -69,19 +69,8 @@ https://www.youtube.com/watch?v=brTVT--qcwI
 
 ![analogreadingchanges_based on sensor](https://cloud.githubusercontent.com/assets/13222494/25791631/983fea5a-3376-11e7-8c6a-a42ae78be445.JPG)
 
+![user testing_setup](https://cloud.githubusercontent.com/assets/13222494/25791719/01133d2a-3377-11e7-8c4d-35e97f0f688c.JPG)
 
-
-
-
-
-
-
-
-
-
-
-
-A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
 A short video (cellphone is fine) of the operational project
 Program(s) must be well commented
 Each variable must have a meaningful name
