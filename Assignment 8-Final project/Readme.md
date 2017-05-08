@@ -53,7 +53,7 @@ Required Items: (Arduino Uno -1)
 7. Extra - scissors, stapler, extra conductive wires & crocodile clips 
 Soldering - lead wire, soldering iron , safety glasses
 ### - Construction
-Look into the youtube video for clear construction.
+Look into the youtube video for clear construction of the piezo electric respiratory belt.
 https://www.youtube.com/watch?v=brTVT--qcwI
 
 ### - Pictures from the project
