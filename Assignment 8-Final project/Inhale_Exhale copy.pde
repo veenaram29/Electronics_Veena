@@ -1,3 +1,8 @@
+//Author :Veena
+//Respiratory belt machine
+//I have got most lines commented out
+
+
 import processing.serial.*;
 Serial myPort;        // The serial port
 float xPos = .5;         // horizontal position of the graph
