@@ -8,7 +8,7 @@ Serial myPort;        // The serial port
 float xPos = .5;         // horizontal position of the graph
 float inByte = 0; // mapping position
 
-//int rStart, rStop;
+
 float[][] radii;
 float nX, nY, yY; 
 float masterX, masterY; // xPosition , yPosition on the screen
@@ -19,7 +19,7 @@ float inBetween, totaldrawsketchs; // number of times it draws the sketch, inBet
 int circleNumber; // number of circle movements in the whole sketch
 
 void setup() {
-  //smooth();
+  
   size(1200, 600);//size of the canavas
   
   // print value in the serial port
