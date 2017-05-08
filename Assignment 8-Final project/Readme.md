@@ -3,7 +3,7 @@
 This project is an extension of my thesis to test how people would respond 
 to any instant visual feedback combined with simple interactions to make their mundane 
 action of breathing into an interesting one. It is more of an experimental test to see 
-people feel motivated in response to an instant visual feedback system. 
+how people feel motivated in response to an instant visual feedback system. 
 
 ### - Why does it have to be immediate visual feedback?
 During my thesis research, I observed a user behavior. 
