@@ -58,6 +58,9 @@ Buzzer -
 
 ![solderingcopperwiretopiezo](https://cloud.githubusercontent.com/assets/13222494/25790769/48be50da-3370-11e7-864a-4f6875540613.JPG)
 
+![frontposition_aftersoldering](https://cloud.githubusercontent.com/assets/13222494/25790798/911143c4-3370-11e7-8c6a-c366932ca6b7.JPG)
+
+
 
 
 
